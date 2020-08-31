@@ -4,8 +4,9 @@
 ## Code and Resources Used
 ** MySQL Version: ** 8.0
 
-** Data Obtained: ** https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
+** Data Obtained: ** https://github.com/rgriff23/Olympic_history_v2
 
 
 # ER Diagram 
-![ER Diagram](https://github.com/JasonYao3/120-years-of-Olympic-history/blob/master/Olympic%20ER%20Diagram.png)
+![ER Diagram](https://github.com/JasonYao3/120-years-of-Olympic-history/blob/master/Olympic%20ER%20Diagram.png){:height="700px" width="400px"}
+
