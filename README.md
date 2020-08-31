@@ -6,7 +6,7 @@
 ** MySQL Version: ** 8.0
 
 ** Data Obtained From: ** https://github.com/rgriff23/Olympic_history_v2
-** Inspired By: https://www.kaggle.com/heesoo37/olympic-history-data-a-thorough-analysis
+** Inspired By: ** https://www.kaggle.com/heesoo37/olympic-history-data-a-thorough-analysis
 
 ## ER Diagram 
 
