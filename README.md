@@ -8,5 +8,5 @@
 
 
 # ER Diagram 
-![ER Diagram](https://github.com/JasonYao3/120-years-of-Olympic-history/blob/master/Olympic%20ER%20Diagram.png){:height="700px" width="400px"}
+![ER Diagram](https://github.com/JasonYao3/120-years-of-Olympic-history/blob/master/Olympic%20ER%20Diagram.png){:height="500px" width="400px"}
 
