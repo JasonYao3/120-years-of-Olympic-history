@@ -7,7 +7,7 @@
 ** Data Obtained: ** https://github.com/rgriff23/Olympic_history_v2
 
 
-# ER Diagram 
+## ER Diagram 
 
 <img src="https://github.com/JasonYao3/120-years-of-Olympic-history/blob/master/Olympic%20ER%20Diagram.png" width="800" height="700">
 
