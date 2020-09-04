@@ -4,11 +4,13 @@
 * This project is about analyzing the data of 120 years of Olympic history (from 1896 - 2016) by using MySQL and Python
 
 ## Code and Resources Used
-** MySQL Version: ** 8.0
+* MySQL Version:  8.0
 
-** Data Obtained From: ** https://github.com/rgriff23/Olympic_history_v2
+* Tableau
 
-** Inspired By: ** https://www.kaggle.com/heesoo37/olympic-history-data-a-thorough-analysis
+* Data Obtained From:  https://github.com/rgriff23/Olympic_history_v2
+
+* Inspired By:  https://www.kaggle.com/heesoo37/olympic-history-data-a-thorough-analysis
 
 ## ER Diagram 
 
