@@ -3,6 +3,11 @@
 * Wrote intermediate level queries: Subqueries, CTE and Views
 * This project is about analyzing the data of 120 years of Olympic history (from 1896 - 2016) by using MySQL and Python
 
+## Code and Resources Used 
+**Python Version:** 3.7  
+**Packages:** pandas, numpy, sklearn, matplotlib, seaborn, selenium, flask, json, pickle  
+**For Web Framework Requirements:**  ```pip install -r requirements.txt```  
+
 ## Code and Resources Used
 * MySQL Version:  8.0
 
