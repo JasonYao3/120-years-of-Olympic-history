@@ -11,7 +11,7 @@
 * Inspired By:  https://www.kaggle.com/heesoo37/olympic-history-data-a-thorough-analysis
 
 ## ER Diagram 
-
+* This ER Diagram follows the first, second and third normal forms to reduce data redundancy and improve data integrity.
 <img src="https://github.com/JasonYao3/120-years-of-Olympic-history/blob/master/Olympic%20ER%20Diagram.png" width="800" height="700">
 
 
