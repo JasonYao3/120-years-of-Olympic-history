@@ -1,7 +1,7 @@
 # 120-years-of-Olympic-history: Project Overview
 - This project is about analyzing dataset of the 120 years of Olympic history (from 1896 - 2016) by using MySQL and Tableau.
 - Designed and transformed ~270k rows and 15 columns of data into 11 tables by following the data normalization techniques.
-- Wrote intermediate level queries: Subqueries, CTE and Views.
+- Wrote intermediate level queries: Subqueries, CTE, joins and views.
 - Constructed a compelling story using tableau.
 
 ## Resources Used
