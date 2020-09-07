@@ -26,7 +26,7 @@
 - Last year of art competitions is in 1948.
 - Gap between male and female participants has been closer. In summer 1988, there are 10453 males and 4223 females. In summer 2016, there are 7465 males and 6223 females. 
 
-## Interesting historic events affected the Olympics games participant counts
+## Interesting historic events affected the Olympics games participantion
 - LA and Lake Placid 1932 summer and winter games had a significant drop of participants was due to the Great Depression.
 - Melbourne 1956, had a significant drop of participants was due to countries boycotted in response to USSR's invasion of Hungary.
 - Stockholm 1956, the first time in Olympics history where there are two countries hosted the summer game, the equestrian events was held in Stockholm due to Australia's strict quarantine regulations.
