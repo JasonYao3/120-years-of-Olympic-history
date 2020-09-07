@@ -12,11 +12,11 @@
 
 ## ER Diagram 
 - This ER Diagram follows the first, second and third normal forms to reduce data redundancy and improve data integrity.
-<img src="https://github.com/JasonYao3/120-years-of-Olympic-history/blob/master/Olympic%20ER%20Diagram.png" width="800" height="700">
+<img src="https://github.com/JasonYao3/120-years-of-Olympic-history/blob/master/Pictures/Olympic%20ER%20Diagram.png" width="800" height="700">
 
 ## Tableau Visualization Dashboard
 - Link to dashboard: https://tinyurl.com/y2elfhoj
-<img src="https://github.com/JasonYao3/120-years-of-Olympic-history/blob/master/Olympic%20Dashboard%20.png" width="800" height="700">
+<img src="hhttps://github.com/JasonYao3/120-years-of-Olympic-history/blob/master/Pictures/Olympic%20Dashboard%20.png" width="800" height="700">
 
 ## Interesting Insight
 - first summer Olympics hosted in Athens 1896 with Only 380 athletes.
