@@ -1,4 +1,7 @@
-# 120-years-of-Olympic-history: Project Overview
+# 120-years-of-Olympic-history 
+This project is for anyone who is curious about how an amateurial event that used to host art competitions evovled into a modern major global sporting event and how historic events affected the Olympics games participantions.
+
+## Project Overview
 - This project is about analyzing dataset of the 120 years of Olympic history (from 1896 - 2016) by using MySQL and Tableau.
 - Designed and transformed ~270k rows and 15 columns of data into 11 tables by following the data normalization techniques.
 - Wrote intermediate level queries: Subqueries, CTE, joins and views.
