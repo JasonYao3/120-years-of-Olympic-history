@@ -1,6 +1,5 @@
 # 120-years-of-Olympic-history 
 
-## Intro
 This project is for anyone who is curious about how an amateurial event that used to host art competitions evovled into a modern major global sporting event and how historic events affected the Olympics games participantions.
 
 ## Project Overview
