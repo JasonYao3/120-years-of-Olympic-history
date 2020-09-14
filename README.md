@@ -20,7 +20,7 @@ This project is for anyone who is curious about how an amateurial event that use
 
 ## Tableau Visualization Dashboard
 - Link to dashboard: https://tinyurl.com/y2elfhoj
-<img src="https://github.com/JasonYao3/120-years-of-Olympic-history/blob/master/Pictures/Olympic%20Dashboard%20.png" width="800" height="700">
+<img src="https://github.com/JasonYao3/120-years-of-Olympic-history/blob/master/Pictures/Olympic%20Das" width="800" height="700">
 
 ## Interesting Insight
 - first summer Olympics hosted in Athens 1896 with Only 380 athletes.
