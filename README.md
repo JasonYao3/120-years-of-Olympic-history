@@ -1,6 +1,6 @@
 # 120-years-of-Olympic-history 
 
-This project is for anyone who is curious about how an amateurial event that used to host art competitions evovled into a modern major global sporting event and how historic events affected the Olympics games participantions.
+This project is for anyone who is curious about how an amateurial event that used to host art competitions evolved to a modern major global sporting event and how historic events affected the Olympics games participantions.
 
 ## Project Overview
 - This project is about analyzing dataset of the 120 years of Olympic history (from 1896 - 2016) by using MySQL and Tableau.
@@ -23,8 +23,8 @@ This project is for anyone who is curious about how an amateurial event that use
 <img src="https://github.com/JasonYao3/120-years-of-Olympic-history/blob/master/Pictures/Olympic%20Dashboard.png" width="800" height="700">
 
 ## Interesting Insight
-- first summer Olympics hosted in Athens 1896 with Only 380 athletes.
-- first winter Olympics hosted in Chamonix 1924
+- first summer Olympics hosted in Athens 1896 only had 380 athletes.
+- first winter Olympics hosted was in Chamonix 1924
 - 1912 was the first year of art competitions had only 33 artists.
 - Number of artists peaked at 1932 with 1124 of them.
 - Last year of art competitions is in 1948.
